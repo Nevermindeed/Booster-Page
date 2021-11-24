@@ -9,10 +9,11 @@
     min-height: 100vh;
     width: 100%;
     background-color: #000;
-    background-image: url(https://media4.giphy.com/media/l0K43RPRCJ5BQIUJW/giphy.gif?cid=ecf05e47sogq1655ry96paxybmcxu89k2a0uxf74zxd6w7e5&rid=giphy.gif&ct=g);
-    background-position: center;
-    background-size: 70%;
+    background-image: url(jinx.gif);
+    background-position: top;
+    background-size: 50%;
     color: #fff;
     padding: 0 8%;
-
+    background-repeat: no-repeat;
+    
 }
