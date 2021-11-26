@@ -113,6 +113,6 @@ p{
     line-height: 50px;
     border-radius:3px;
     cursor: pointer;
-    transition: .5s;
+    transition: .5s; 
     position: absolute;
 }
