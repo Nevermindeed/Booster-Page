@@ -44,6 +44,9 @@ button{
     outline: none;
     cursor: pointer;
 }
+button:hover{
+    background-color:gold;
+}
 .Anmeldebutton{
     background-color: #21afde;
 
