@@ -6,6 +6,15 @@
 </head>
 
 <body>
+    <nav>
+        <img src="lol.png" class="logo" ;>
+        <ul>
+            <li><a href="Projekt_Boost.html">Home</a></li>
+            <li><a href="Weiterleitung1.php">About us</a></li>
+            <li><a href="https://merch.riotgames.com/de-de/">Store</a></li>
+            <li><a href="Weiterleitung3.html">Login</a></li>
+        </ul>
+    </nav>
     <h1>Die Coaches stellen sich vor</h1>
     <input type="checkbox" id="click"><label for="click" class="click-me">Profile</label>
     <div class="content">
